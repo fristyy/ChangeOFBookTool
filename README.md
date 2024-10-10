@@ -12,15 +12,13 @@
 
 * 安装依赖模块
 
-  ```pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
-  ```
+  pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 快速上手
 
-直接运行
+*直接运行
 
-```python yibuPackag.py
-```
+  python yibuPackag.py
 
 
 
