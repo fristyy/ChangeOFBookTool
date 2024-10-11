@@ -20,6 +20,9 @@
 
   python yibuPackag.py
 
+#主界面
+![主界面示例图片](./res/appUI.png)
+
 
 
 
