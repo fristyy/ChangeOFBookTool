@@ -8,17 +8,17 @@
 
 ## 安装教程
 
-* python版本3.10
+* python版本3.10，以上版本皆可做尝试
 
 * 安装依赖模块
-  requirements.txt是需要按装的模块，在此文件同目录下执行以下命令
+  requirements.txt中列出的是需要安装的模块，在此文件同目录下执行以下命令
 
   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 快速上手
 
 *直接运行
-
+  安装下依赖模块直接在程序目录中运行
   python yibuPackag.py
 
 #主界面
