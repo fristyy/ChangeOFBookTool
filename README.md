@@ -11,6 +11,7 @@
 * python版本3.10
 
 * 安装依赖模块
+  requirements.txt是需要按装的模块，在此文件同目录下执行以下命令
 
   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
