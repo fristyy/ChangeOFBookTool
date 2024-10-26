@@ -9,10 +9,12 @@
 ## 安装教程
 
 * python版本3.10.6,其它版本可能启动不了，因为yibu模块已经编译成了二进制
+* python -m venv yibu 创建一个叫yibu的虚拟环境以免影响其它程序
 
 * 安装依赖模块
-  requirements.txt中列出的是需要安装的模块，在此文件同目录下执行以下命令
-
+  yibu\Scripts\activate 启动虚拟环境
+  
+  requirements.txt中列出的是需要安装的模块，在此文件同目录下执行以下命令，numpy版本为1.X，装2.X会报错
   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
 ## 快速上手
