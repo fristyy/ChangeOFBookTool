@@ -8,7 +8,7 @@
 
 ## 安装教程
 
-* python版本3.10.6,其它版本可能启动不了，因为yibu模块已经编译成了二进制
+* python版本3.10.6,其它版本启动不了，windows下启动，yibu.cp310-win_amd64.pyd模块已经在windows下编译成了二进制，改用dist文件夹下的内容替换yibu.cp310-win_amd64.pyd可不受限制
 * python -m venv yibu 创建一个叫yibu的虚拟环境以免影响其它程序
 
 * 安装依赖模块
